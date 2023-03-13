@@ -33,7 +33,11 @@ header {
 
 .leftbody {
     width: 50%;
-    height: 500px;}
+    height: 500px;
+    background-image: url(/img/delivery.jpg);
+    background-size: cover;
+    text-align: left;
+}
 
 .rightbody {
     width: 50%;
